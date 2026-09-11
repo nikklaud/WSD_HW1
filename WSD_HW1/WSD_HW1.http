@@ -1,0 +1,6 @@
+@WSD_HW1_HostAddress = http://localhost:5265
+
+GET {{WSD_HW1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
